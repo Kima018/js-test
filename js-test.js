@@ -6,3 +6,5 @@ class CountChar {
         return this.word.length;
     }
 }
+
+window.CountChar = CountChar;
